@@ -1,0 +1,44 @@
+.color_nav_form {
+    background-color: #28a745;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img {
+
+    height: 1.813rem;
+
+}
+
+.tarjeta {
+    width: 278px;
+    font-family: 'Roboto', sans-serif;  
+}
+
+.imagen {
+    height: 180px;
+}
+
+.pie_imagen {
+    height: 199;
+}
+
+.precios {
+    text-align: right;
+}
+
+h3 {
+    font-family: 'Roboto-ligth', sans-serif; 
+    color: #707070;
+}
+
+h4 {
+    font-family: 'Roboto-ligth', sans-serif; 
+    color: #707070;
+}
+
+footer {
+    color: #707070;
+}
